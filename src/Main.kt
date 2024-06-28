@@ -12,4 +12,5 @@ fun main() {
     }
 
     variables();
+    sentenceIf();
 }
