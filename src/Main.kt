@@ -14,6 +14,6 @@ fun main() {
 //    variables()
 //    sentenceIf()
 //    SentenceWhen()
-    whileLoop()
-
+//    whileLoop()
+    forLoop()
 }
