@@ -13,4 +13,5 @@ fun main() {
 
     variables();
     sentenceIf();
+    SentenceWhen()
 }
