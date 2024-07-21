@@ -16,5 +16,6 @@ fun main() {
 //    SentenceWhen()
 //    whileLoop()
 //    forLoop()
-    tryCatch()
+//    tryCatch()
+    elvisOperator()
 }
