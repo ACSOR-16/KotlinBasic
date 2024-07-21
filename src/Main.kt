@@ -19,4 +19,5 @@ fun main() {
 //    tryCatch()
 //    elvisOperator()
     typeOfList()
+    listMethods()
 }
