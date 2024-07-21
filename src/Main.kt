@@ -17,5 +17,6 @@ fun main() {
 //    whileLoop()
 //    forLoop()
 //    tryCatch()
-    elvisOperator()
+//    elvisOperator()
+    typeOfList()
 }
