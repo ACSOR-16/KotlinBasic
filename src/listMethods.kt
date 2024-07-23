@@ -18,7 +18,7 @@ fun listMethods() {
 
     val numbersMessage = lotteryNumbers.map { number ->
 //        println(number)
-        "your lottery number is: $number "
+        "your lottery number is: $number"
     }
     println(numbersMessage)
 

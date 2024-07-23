@@ -18,6 +18,7 @@ fun main() {
 //    forLoop()
 //    tryCatch()
 //    elvisOperator()
-    typeOfList()
-    listMethods()
+//    typeOfList()
+//    listMethods()
+    maps()
 }
