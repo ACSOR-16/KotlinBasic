@@ -20,5 +20,6 @@ fun main() {
 //    elvisOperator()
 //    typeOfList()
 //    listMethods()
-    maps()
+//    maps()
+    sets()
 }
