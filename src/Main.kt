@@ -21,5 +21,7 @@ fun main() {
 //    typeOfList()
 //    listMethods()
 //    maps()
-    sets()
+//    sets()
+    functions()
+
 }
