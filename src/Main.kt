@@ -23,5 +23,6 @@ fun main() {
 //    maps()
 //    sets()
     functions()
+    printName(name = "oscar", lastName = "aguirre")
 
 }
