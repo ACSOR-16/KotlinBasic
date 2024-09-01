@@ -30,11 +30,15 @@ fun main() {
 //    functions()
 //    printName(name = "oscar", lastName = "aguirre")
 //    lambdasFunctions()
-//    ### High order functions
-    val stringLength = superFunction(name = "Oscar", block = { value -> value.length })
-    println(stringLength)
 
-    val functionInceptionView: () -> String = functionInception(name = "Wilfredo")
-    val functionInceptionExe = functionInceptionView()
-    println(functionInceptionExe)
+    //    ### High order functions ###
+//    val stringLength = superFunction(name = "Oscar", block = { value -> value.length })
+//    println(stringLength)
+//
+//    val functionInceptionView: () -> String = functionInception(name = "Wilfredo")
+//    val functionInceptionExe = functionInceptionView()
+//    println(functionInceptionExe)
+
+//    ### Scope Functions ###
+    scopeFunction()
 }
