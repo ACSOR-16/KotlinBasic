@@ -1,3 +1,8 @@
+private val function: () -> String
+    get() {
+        val functionInceptionView = functionInception(name = "Wilfredo")
+        return functionInceptionView
+    }
 
 fun main() {
 //    val name = "Kotlin"
@@ -24,5 +29,12 @@ fun main() {
 //    sets()
 //    functions()
 //    printName(name = "oscar", lastName = "aguirre")
-    lambdasFunctions()
+//    lambdasFunctions()
+//    ### High order functions
+    val stringLength = superFunction(name = "Oscar", block = { value -> value.length })
+    println(stringLength)
+
+    val functionInceptionView: () -> String = functionInception(name = "Wilfredo")
+    val functionInceptionExe = functionInceptionView()
+    println(functionInceptionExe)
 }
