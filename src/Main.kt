@@ -22,7 +22,7 @@ fun main() {
 //    listMethods()
 //    maps()
 //    sets()
-    functions()
-    printName(name = "oscar", lastName = "aguirre")
-
+//    functions()
+//    printName(name = "oscar", lastName = "aguirre")
+    lambdasFunctions()
 }
