@@ -40,5 +40,8 @@ fun main() {
 //    println(functionInceptionExe)
 
 //    ### Scope Functions ###
-    scopeFunction()
+//    scopeFunction()
+
+//    ### With Function ###
+    withFunction()
 }
