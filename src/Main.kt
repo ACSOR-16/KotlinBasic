@@ -43,5 +43,8 @@ fun main() {
 //    scopeFunction()
 
 //    ### With Function ###
-    withFunction()
+//    withFunction()
+
+//    ### Run Function ###
+    runFunction()
 }
