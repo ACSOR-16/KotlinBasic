@@ -46,5 +46,8 @@ fun main() {
 //    withFunction()
 
 //    ### Run Function ###
-    runFunction()
+//    runFunction()
+
+//    ### Apply Function ###
+    applyFunction()
 }
