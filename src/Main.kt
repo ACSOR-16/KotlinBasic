@@ -49,5 +49,10 @@ fun main() {
 //    runFunction()
 
 //    ### Apply Function ###
-    applyFunction()
+//    applyFunction()
+
+//    ### Also function ###
+    alsoFunction()
+
+
 }
